@@ -1,0 +1,3 @@
+document.title = CONFIG.TITLE;
+
+
